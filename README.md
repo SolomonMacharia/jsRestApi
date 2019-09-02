@@ -1,2 +1,2 @@
 # jsRestApi
-simple node, express, mongodb restful api
+simple node, express, postgresql restful api
